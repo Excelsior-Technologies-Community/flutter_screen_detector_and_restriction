@@ -1,4 +1,4 @@
-# 📵 screen_restriction
+# 📵 Screen Restriction
 A Flutter plugin to **detect & restrict screenshots and screen recording** on both Android and iOS.  
 Provides:
 ✔ Real-time detection  
