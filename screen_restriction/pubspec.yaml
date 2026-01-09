@@ -1,7 +1,7 @@
 name: screen_restriction
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_screen_detector_and_restriction
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_screen_detector_and_restriction
 
 environment:
   sdk: ^3.8.1
